@@ -31,7 +31,7 @@
 |---|---|---|
 | 💰 Finance Dashboard | App de controle financeiro com React, Vite, Context API e Recharts | [Ver projeto](https://finance-dashboard-react-six.vercel.app) |
 | 🖥 Admin Panel | Painel administrativo multi-página com CRUD completo e Chart.js | [Ver projeto](https://olympusadminpanel.vercel.app) |
-| 🌐 Portfólio | Site pessoal com i18n PT/EN e tema claro/escuro | [Ver projeto](https://devbenjaminsantos.github.io/landing-page/) |
+| 🌐 Portfólio | Site pessoal com i18n PT/EN e tema claro/escuro | [Ver projeto](https://devbenjaminsantos.github.io/benjamin-portfolio/) |
 
 ---
 
