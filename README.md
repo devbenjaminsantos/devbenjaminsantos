@@ -46,16 +46,16 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=[SEU_USUARIO]&theme=dark&background=0d0d0d&border=C8A97E&ring=8B0000&fire=C8A97E&currStreakLabel=C8A97E&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=C8A97E" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=[devbenjaminsantos]&theme=dark&background=0d0d0d&border=C8A97E&ring=8B0000&fire=C8A97E&currStreakLabel=C8A97E&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=C8A97E" />
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO]&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=C8A97E&icon_color=8B0000&title_color=C8A97E&text_color=aaaaaa" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO]&layout=compact&theme=dark&bg_color=0d0d0d&border_color=C8A97E&title_color=C8A97E&text_color=aaaaaa" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=[devbenjaminsantos]&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=C8A97E&icon_color=8B0000&title_color=C8A97E&text_color=aaaaaa" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[devbenjaminsantos]&layout=compact&theme=dark&bg_color=0d0d0d&border_color=C8A97E&title_color=C8A97E&text_color=aaaaaa" />
 
 <br/><br/>
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=[SEU_USUARIO]&bg_color=0d0d0d&color=C8A97E&line=8B0000&point=C8A97E&area=true&hide_border=false&border_color=C8A97E" />
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=[devbenjaminsantos]&bg_color=0d0d0d&color=C8A97E&line=8B0000&point=C8A97E&area=true&hide_border=false&border_color=C8A97E" />
 
 </div>
 
@@ -65,8 +65,7 @@
 
 | | Project | Description |
 |--|---------|-------------|
-| 🩸 | **[Finova](https://github.com/[SEU_USUARIO]/finova)** | Personal finance SaaS — goals, CSV/OFX import, auth |
-| ⚔️ | **Doss Imobiliária** | Full real estate platform |
+| 🩸 | **[Finova](https://github.com/[SEU_USUARIO]/finova)** | Personal finance SaaS — goals, CSV/OFX import, auth 
 
 ---
 
