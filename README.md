@@ -1,15 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://i.imgur.com/placeholder.png" alt="Bloodborne Banner" />
-
-<!-- 
-  ╔══════════════════════════════════════════════════════╗
-  ║  TROCA O LINK ACIMA por uma arte do Bloodborne      ║
-  ║  Sugestão: procura no Wallhaven ou Reddit           ║
-  ║  r/bloodborne por fanarts em alta resolução         ║
-  ║  Depois sobe no Imgur e cola o link direto .png/.jpg║
-  ╚══════════════════════════════════════════════════════╝
--->
+<img width="100%" src="https://w.wallhaven.cc/full/d8/wallhaven-d8oxmo.jpg" alt="Bloodborne Banner" />
 
 ---
 
@@ -23,9 +14,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[VOCÊ])
-[![Portfolio](https://img.shields.io/badge/▲_PORTFOLIO-000000?style=for-the-badge)](https://[SEU_SITE])
-[![Email](https://img.shields.io/badge/EMAIL-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[SEU_EMAIL])
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[benjaminmontenegro])
+[![Portfolio](https://img.shields.io/badge/▲_PORTFOLIO-000000?style=for-the-badge)](https://[benjaminmontenegro.com])
+[![Email](https://img.shields.io/badge/EMAIL-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[benjamontenegro.dev@gmail.com])
 
 <br/>
 
