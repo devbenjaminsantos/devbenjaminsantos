@@ -65,7 +65,7 @@
 
 | | Project | Description |
 |--|---------|-------------|
-| 🩸 | **[Finova](https://github.com/[SEU_USUARIO]/finova)** | Personal finance SaaS — goals, CSV/OFX import, auth 
+| 🩸 | **[Finova](https://github.com/devbenjaminsantos/finova)** | Personal finance SaaS — goals, CSV/OFX import, auth 
 
 ---
 
