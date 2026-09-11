@@ -1,80 +1,79 @@
 <div align="center">
 
-<img width="100%" src="https://w.wallhaven.cc/full/d8/wallhaven-d8oxmo.jpg" alt="Bloodborne Banner" />
+Benjamin Montenegro
 
----
+Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=16&duration=4000&pause=1500&color=C8A97E&center=true&vCenter=true&width=600&lines=Seek+Paleblood+to+Transcend+the+Hunt.;We+are+born+of+the+blood%2C+made+men+by+the+blood.;Fear+the+Old+Blood." alt="Typing SVG" />
+Desenvolvo aplicações web e sistemas para operações reais, da interface às APIs e à infraestrutura.
 
-<br/>
+Rio de Janeiro, Brasil · Português nativo · Inglês C1
 
-# Ben · *Hunter of Yharnam*
-
-### Full Stack Developer · React · ASP.NET Core · Azure
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[benjaminmontenegro])
-[![Portfolio](https://img.shields.io/badge/▲_PORTFOLIO-000000?style=for-the-badge)](https://[benjaminmontenegro.com])
-[![Email](https://img.shields.io/badge/EMAIL-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[benjamontenegro.dev@gmail.com])
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=devbenjaminsantos&color=C8A97E&style=for-the-badge&label=PROFILE+VIEWS)
+Portfólio · LinkedIn · E-mail
 
 </div>
 
----
+────────
 
-## 〔 The Hunter 〕
+I — Sobre
 
-```
-  Based in Rio de Janeiro · Full Stack Junior Developer
-  Forging code in the dark workshops of Yharnam.
-  By night I hunt bugs. By dawn, I ship features.
-```
+Gosto de entender como as coisas funcionam — e depois descobrir como fazê-las funcionar melhor.
 
-- 🩸 **Frontend** — React, TypeScript, Next.js, JavaScript
-- ⚔️ **Backend** — ASP.NET Core, C#, Node.js
-- 🗄️ **Database** — PostgreSQL, SQL Server
-- ☁️ **Cloud** — Azure, Docker, CI/CD
-- 🧪 **Testing** — Playwright, xUnit, Vitest
+Trabalho com React, TypeScript e .NET na construção de plataformas web, sistemas internos e integrações. Minha atuação inclui regras de negócio, autenticação, bancos relacionais, testes e deploy em nuvem.
 
----
+Estou concluindo a graduação em Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
 
-## 〔 The Hunt — Stats 〕
+II — Trabalho em prática
+
+• Doss Imobiliária — Desenvolvimento e manutenção de uma plataforma imobiliária com APIs, personalização de imóveis por perfil e integrações com CRM para captação e segmentação de leads.
+• Someji Estacionamento — Sistema local de gestão com entrada e saída de veículos, histórico de visitas, cálculo de tarifas e emissão de comprovantes.
+• Projetos freelance — Site institucional para a Rego Barros Consultoria e solução de cardápio digital para a Ki-Dilicia.
+
+III — Projetos selecionados
+
+Héstia
+
+Aplicação de finanças pessoais para organizar transações, contas, orçamentos e lançamentos recorrentes. Inclui dashboards, importação e exportação de dados, acesso demo e autenticação com cookie HttpOnly.
+
+Stack: React · ASP.NET Core · Entity Framework Core · PostgreSQL
+Infraestrutura: Vercel · Railway · Neon
+
+RunBase
+
+Sistema em desenvolvimento para gestão de clientes, planos e operações recorrentes. A base implementada reúne arquitetura em camadas, autenticação JWT e rotação de refresh tokens.
+
+Stack: Next.js · TypeScript · ASP.NET Core · PostgreSQL · Docker
+
+Argos
+
+Monitoramento de preços para reduzir a necessidade de conferir produtos manualmente. A primeira versão é uma extensão Chrome para o Mercado Livre, com histórico local e notificações por preço-alvo ou queda relevante. A evolução inclui uma API e integração com Telegram.
+
+V1: TypeScript · Manifest V3 · IndexedDB · Vitest
+Em desenvolvimento: Python · FastAPI · PostgreSQL · Telegram
+
+IV — Ferramentas
+
+|Área             |Tecnologias                                                  |
+|-----------------|-------------------------------------------------------------|
+|Front-end        |React, Next.js, Astro, TypeScript, JavaScript, HTML, CSS     |
+|Back-end         |C#, .NET, ASP.NET Core, Node.js, Python, Django, FastAPI     |
+|Dados            |PostgreSQL, SQL Server, Entity Framework Core                |
+|Cloud & DevOps   |Azure, Vercel, Render, Railway, Docker, GitHub Actions, CI/CD|
+|Testes           |Playwright, Vitest, xUnit                                    |
+|Trabalho & Design|Git, Figma, Scrum, Kanban                                    |
+
+V — Contato
+
+Aberto a oportunidades de desenvolvimento e projetos freelance.
+
+Conheça meu portfólio · Vamos conversar
+
+────────
 
 <div align="center">
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=devbenjaminsantos&theme=dark&background=0d0d0d&border=C8A97E&ring=8B0000&fire=C8A97E&currStreakLabel=C8A97E&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=C8A97E" />
+<sub>☾</sub>
 
-<br/><br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devbenjaminsantos&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=C8A97E&icon_color=8B0000&title_color=C8A97E&text_color=aaaaaa" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbenjaminsantos&layout=compact&theme=dark&bg_color=0d0d0d&border_color=C8A97E&title_color=C8A97E&text_color=aaaaaa" />
-
-<br/><br/>
-
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=devbenjaminsantos&bg_color=0d0d0d&color=C8A97E&line=8B0000&point=C8A97E&area=true&hide_border=false&border_color=C8A97E" />
-
-</div>
-
----
-
-## 〔 Chalice Dungeons — Projects 〕
-
-| | Project | Description |
-|--|---------|-------------|
-| 🩸 | **[Finova](https://github.com/devbenjaminsantos/finova-app)** | Personal finance SaaS — goals, CSV/OFX import, auth 
-
----
-
-<div align="center">
-
-*"Farewell, good hunter. May you find your worth in the waking world."*
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=11&duration=5000&pause=2000&color=4a2a1a&center=true&vCenter=true&width=400&lines=...the+night+of+the+hunt+is+long...;...and+the+hunt+never+ends..." alt="footer" />
+“May you find your worth in the waking world.”
+<sub>Bloodborne</sub>
 
 </div>
