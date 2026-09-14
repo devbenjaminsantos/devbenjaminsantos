@@ -192,25 +192,8 @@ A primeira versão é uma extensão Chrome para o Mercado Livre, com histórico 
 
 </div>
 
-<details>
-<summary><strong>Mais estatísticas e linguagens</strong></summary>
-
-<br/>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devbenjaminsantos&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=C8A97E&icon_color=8B0000&title_color=C8A97E&text_color=AAAAAA" alt="Estatísticas gerais do GitHub — serviço externo" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbenjaminsantos&layout=compact&theme=dark&bg_color=0d0d0d&border_color=C8A97E&title_color=C8A97E&text_color=AAAAAA" alt="Linguagens dos repositórios — serviço externo" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devbenjaminsantos&bg_color=0d0d0d&color=C8A97E&line=8B0000&point=C8A97E&area=true&hide_border=false&border_color=C8A97E" alt="Gráfico de contribuições — serviço externo" />
-
-</div>
-
-</details>
-
 ---
+
 
 ## VI — Contato
 
@@ -242,7 +225,7 @@ Aberto a oportunidades de desenvolvimento e projetos freelance.
 <div align="center">
 
 <p><em>“May you find your worth in the waking world.”</em></p>
-<sub>Bloodborne</sub>
+<sub>The Doll, Bloodborne</sub>
 
 <br/><br/>
 
