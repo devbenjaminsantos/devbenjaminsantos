@@ -1,163 +1,251 @@
 <div align="center">
 
-<img width="100%" src="https://w.wallhaven.cc/full/d8/wallhaven-d8oxmo.jpg" alt="Bloodborne Banner" />
-
-────────
-
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=16&duration=4000&pause=1500&color=C8A97E&center=true&vCenter=true&width=600&lines=Seek+Paleblood+to+Transcend+the+Hunt.;We+are+born+of+the+blood%2C+made+men+by+the+blood.;Fear+the+Old+Blood." alt="Bloodborne quote animation" />
+<img width="80%" src="https://w.wallhaven.cc/full/d8/wallhaven-d8oxmo.jpg" alt="Bloodborne — Lumenflower Gardens" />
 
 <br/>
 
-Benjamin Montenegro
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=16&duration=4000&pause=1500&color=C8A97E&center=true&vCenter=true&width=600&lines=Seek+Paleblood+to+Transcend+the+Hunt.;We+are+born+of+the+blood%2C+made+men+by+the+blood.;Fear+the+Old+Blood." alt="Citações animadas de Bloodborne" />
 
-Full Stack Developer
+<h1>Benjamin Montenegro</h1>
 
-Desenvolvo aplicações web e sistemas para operações reais, da interface às APIs e à infraestrutura.
+<h3>Full Stack Developer</h3>
 
-Rio de Janeiro, Brasil · Português nativo · Inglês C1
+<p>React · TypeScript · .NET · PostgreSQL</p>
 
-LinkedIn
-Portfolio
-Email
-GitHub
+<p>
+Desenvolvo aplicações web e sistemas para operações reais,<br/>
+da interface às APIs e à infraestrutura.
+</p>
 
-<br/>
+<p>Rio de Janeiro, Brasil · Português nativo · Inglês C1</p>
 
-Profile Views
+<a href="https://benjaminmontenegro.com">
+  <img src="https://img.shields.io/badge/PORTF%C3%93LIO-15191F?style=for-the-badge&logo=vercel&logoColor=C8A97E" alt="Visitar meu portfólio" />
+</a>
+<a href="https://www.linkedin.com/in/benjaminmontenegro">
+  <img src="https://img.shields.io/badge/LINKEDIN-15191F?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="Visitar meu LinkedIn" />
+</a>
+<a href="mailto:benjamontenegro.dev@gmail.com">
+  <img src="https://img.shields.io/badge/E--MAIL-15191F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Enviar e-mail" />
+</a>
+<a href="https://github.com/devbenjaminsantos?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS-15191F?style=for-the-badge&logo=github&logoColor=white" alt="Explorar meus repositórios" />
+</a>
 
 </div>
 
-────────
+---
 
-I — Sobre
+## I — Sobre
 
 Gosto de entender como as coisas funcionam — e depois descobrir como fazê-las funcionar melhor.
 
-Trabalho com React, TypeScript e .NET na construção de plataformas web, sistemas internos e integrações. Minha atuação inclui regras de negócio, autenticação, bancos relacionais, testes e deploy em nuvem.
+Trabalho com **React, TypeScript e .NET** na construção de plataformas web, sistemas internos e integrações. Minha atuação inclui regras de negócio, autenticação, bancos relacionais, testes e deploy em nuvem.
 
-Estou concluindo a graduação em Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
+Estou concluindo a graduação em **Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá**.
 
-II — Trabalho em prática
+---
 
-• Doss Imobiliária — Desenvolvimento e manutenção de uma plataforma imobiliária com APIs, personalização de imóveis por perfil e integrações com CRM para captação e segmentação de leads.
-• Someji Estacionamento — Sistema local de gestão com entrada e saída de veículos, histórico de visitas, cálculo de tarifas e emissão de comprovantes.
-• Projetos freelance — Site institucional para a Rego Barros Consultoria e solução de cardápio digital para a Ki-Dilicia.
+## II — Trabalho em prática
 
-III — Projetos selecionados
+### Doss Imobiliária
 
-Héstia
+Desenvolvimento e manutenção de uma plataforma imobiliária com APIs, personalização de imóveis por perfil e integrações com CRM para captação, sincronização e segmentação de leads.
 
-Aplicação de finanças pessoais para organizar transações, contas, orçamentos e lançamentos recorrentes. Inclui dashboards, importação e exportação de dados, acesso demo e autenticação com cookie HttpOnly.
+**Tecnologias:** Astro · React · TypeScript · .NET · PostgreSQL
 
-Stack: React · ASP.NET Core · Entity Framework Core · PostgreSQL
-Infraestrutura: Vercel · Railway · Neon
+<a href="https://dossimobiliaria.com">
+  <img src="https://img.shields.io/badge/VISITAR_SITE-15191F?style=for-the-badge&logo=vercel&logoColor=C8A97E" alt="Visitar o site da Doss Imobiliária" />
+</a>
 
-RunBase
+### Someji Estacionamento
 
-Sistema em desenvolvimento para gestão de clientes, planos e operações recorrentes. A base implementada reúne arquitetura em camadas, autenticação JWT e rotação de refresh tokens.
+Sistema local de gestão com entrada e saída de veículos, histórico de visitas, cálculo automático de tarifas e emissão de comprovantes.
 
-Stack: Next.js · TypeScript · ASP.NET Core · PostgreSQL · Docker
+**Tecnologias:** .NET · TypeScript · JavaScript · HTML · CSS · PostgreSQL
 
-Argos
+### Projetos freelance
 
-Monitoramento de preços para reduzir a necessidade de conferir produtos manualmente. A primeira versão é uma extensão Chrome para o Mercado Livre, com histórico local e notificações por preço-alvo ou queda relevante. A evolução inclui uma API e integração com Telegram.
+- **Rego Barros Consultoria:** desenvolvimento e manutenção de um site institucional responsivo.
+- **Ki-Dilicia:** solução de cardápio digital e apresentação online de produtos.
 
-V1: TypeScript · Manifest V3 · IndexedDB · Vitest
-Em desenvolvimento: Python · FastAPI · PostgreSQL · Telegram
+<a href="https://regobarrosconsultoria.com">
+  <img src="https://img.shields.io/badge/REGO_BARROS_CONSULTORIA-15191F?style=for-the-badge&logo=vercel&logoColor=C8A97E" alt="Visitar o site da Rego Barros Consultoria" />
+</a>
 
-IV — Ferramentas
+---
+
+## III — Projetos selecionados
+
+### Héstia
+
+Aplicação de finanças pessoais para organizar transações, contas, orçamentos e lançamentos recorrentes.
+
+Inclui dashboards, importação e exportação de dados, acesso demo e autenticação com cookie HttpOnly.
+
+**Stack:** React · ASP.NET Core · Entity Framework Core · PostgreSQL  
+**Infraestrutura:** Vercel · Railway · Neon
+
+<a href="https://github.com/devbenjaminsantos/hestia-app">
+  <img src="https://img.shields.io/badge/EXPLORAR_C%C3%93DIGO-15191F?style=for-the-badge&logo=github&logoColor=white" alt="Explorar o repositório do Héstia" />
+</a>
+
+### RunBase
+
+Sistema em desenvolvimento para gestão de clientes, planos e operações recorrentes.
+
+A base implementada reúne arquitetura em camadas, autenticação JWT e rotação de refresh tokens.
+
+**Stack:** Next.js · TypeScript · ASP.NET Core · PostgreSQL · Docker
+
+<a href="https://github.com/devbenjaminsantos/runbase-system">
+  <img src="https://img.shields.io/badge/EXPLORAR_C%C3%93DIGO-15191F?style=for-the-badge&logo=github&logoColor=white" alt="Explorar o repositório do RunBase" />
+</a>
+<img src="https://img.shields.io/badge/EM_DESENVOLVIMENTO-15191F?style=for-the-badge&labelColor=15191F&color=15191F" alt="Projeto em desenvolvimento" />
+
+### Argos
+
+Monitoramento de preços para reduzir a necessidade de conferir produtos manualmente.
+
+A primeira versão é uma extensão Chrome para o Mercado Livre, com histórico local e notificações por preço-alvo ou queda relevante. A evolução inclui uma API e integração com Telegram.
+
+**Extensão:** TypeScript · Manifest V3 · IndexedDB · Vitest  
+**Back-end em desenvolvimento:** Python · FastAPI · PostgreSQL · Telegram
+
+<a href="https://github.com/devbenjaminsantos/argos">
+  <img src="https://img.shields.io/badge/EXPLORAR_C%C3%93DIGO-15191F?style=for-the-badge&logo=github&logoColor=white" alt="Explorar o repositório do Argos" />
+</a>
+<img src="https://img.shields.io/badge/EM_EVOLU%C3%87%C3%83O-15191F?style=for-the-badge" alt="Projeto em evolução" />
+
+---
+
+## IV — Ferramentas
 
 <div align="center">
 
 <h3>Front-end</h3>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/React-15191F?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-15191F?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Astro-15191F?style=for-the-badge&logo=astro&logoColor=BC52EE" alt="Astro" />
+<img src="https://img.shields.io/badge/TypeScript-15191F?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-15191F?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML-15191F?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-15191F?style=for-the-badge&logo=css&logoColor=663399" alt="CSS" />
 
-<br/><br/>
+<br/>
 
 <h3>Back-end</h3>
 
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/C%23-15191F?style=for-the-badge" alt="C#" />
+<img src="https://img.shields.io/badge/.NET-15191F?style=for-the-badge&logo=dotnet&logoColor=A78BFA" alt=".NET" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-15191F?style=for-the-badge&logo=dotnet&logoColor=A78BFA" alt="ASP.NET Core" />
+<img src="https://img.shields.io/badge/Node.js-15191F?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+<img src="https://img.shields.io/badge/Python-15191F?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+<img src="https://img.shields.io/badge/Django-15191F?style=for-the-badge&logo=django&logoColor=44B78B" alt="Django" />
+<img src="https://img.shields.io/badge/FastAPI-15191F?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
 
-<br/><br/>
+<br/>
 
-<h3>Dados, cloud e DevOps</h3>
+<h3>Dados</h3>
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/PostgreSQL-15191F?style=for-the-badge&logo=postgresql&logoColor=699ECA" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/SQL_Server-15191F?style=for-the-badge" alt="SQL Server" />
+<img src="https://img.shields.io/badge/Entity_Framework_Core-15191F?style=for-the-badge&logo=dotnet&logoColor=A78BFA" alt="Entity Framework Core" />
 
-<br/><br/>
+<br/>
 
-<h3>Testes e design</h3>
+<h3>Cloud &amp; DevOps</h3>
 
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=FCC72B" alt="Vitest" />
-<img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge" alt="xUnit" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Azure-15191F?style=for-the-badge" alt="Azure" />
+<img src="https://img.shields.io/badge/Vercel-15191F?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Render-15191F?style=for-the-badge&logo=render&logoColor=46E3B7" alt="Render" />
+<img src="https://img.shields.io/badge/Railway-15191F?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+<img src="https://img.shields.io/badge/Neon-15191F?style=for-the-badge&logo=neon&logoColor=00E599" alt="Neon" />
+<img src="https://img.shields.io/badge/Docker-15191F?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/GitHub_Actions-15191F?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Git-15191F?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+
+<br/>
+
+<h3>Testes</h3>
+
+<img src="https://img.shields.io/badge/Playwright-15191F?style=for-the-badge" alt="Playwright" />
+<img src="https://img.shields.io/badge/Vitest-15191F?style=for-the-badge&logo=vitest&logoColor=FCC72B" alt="Vitest" />
+<img src="https://img.shields.io/badge/xUnit-15191F?style=for-the-badge" alt="xUnit" />
+
+<br/>
+
+<h3>Design</h3>
+
+<img src="https://img.shields.io/badge/Figma-15191F?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
 
 </div>
 
-V — Contato
+---
+
+## V — Atividade
+
+<div align="center">
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=devbenjaminsantos&theme=dark&background=0d0d0d&border=C8A97E&ring=8B0000&fire=C8A97E&currStreakLabel=C8A97E&sideLabels=AAAAAA&dates=999999&currStreakNum=FFFFFF&sideNums=C8A97E" alt="Sequência de contribuições no GitHub" />
+
+</div>
+
+<details>
+<summary><strong>Mais estatísticas e linguagens</strong></summary>
+
+<br/>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devbenjaminsantos&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=C8A97E&icon_color=8B0000&title_color=C8A97E&text_color=AAAAAA" alt="Estatísticas gerais do GitHub — serviço externo" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbenjaminsantos&layout=compact&theme=dark&bg_color=0d0d0d&border_color=C8A97E&title_color=C8A97E&text_color=AAAAAA" alt="Linguagens dos repositórios — serviço externo" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devbenjaminsantos&bg_color=0d0d0d&color=C8A97E&line=8B0000&point=C8A97E&area=true&hide_border=false&border_color=C8A97E" alt="Gráfico de contribuições — serviço externo" />
+
+</div>
+
+</details>
+
+---
+
+## VI — Contato
 
 Aberto a oportunidades de desenvolvimento e projetos freelance.
 
 <div align="center">
 
-LinkedIn
-Portfolio
-Email
-GitHub
-
-</div>
-
-────────
-
-VI — Atividade
-
-<div align="center">
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=devbenjaminsantos&theme=dark&background=0d0d0d&border=C8A97E&ring=8B0000&fire=C8A97E&currStreakLabel=C8A97E&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=C8A97E" alt="GitHub contribution streak" />
+<a href="https://benjaminmontenegro.com">
+  <img src="https://img.shields.io/badge/PORTF%C3%93LIO-15191F?style=for-the-badge&logo=vercel&logoColor=C8A97E" alt="Visitar meu portfólio" />
+</a>
+<a href="https://www.linkedin.com/in/benjaminmontenegro">
+  <img src="https://img.shields.io/badge/LINKEDIN-15191F?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="Visitar meu LinkedIn" />
+</a>
+<a href="mailto:benjamontenegro.dev@gmail.com">
+  <img src="https://img.shields.io/badge/E--MAIL-15191F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Enviar e-mail" />
+</a>
+<a href="https://github.com/devbenjaminsantos?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS-15191F?style=for-the-badge&logo=github&logoColor=white" alt="Explorar meus repositórios" />
+</a>
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devbenjaminsantos&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=C8A97E&icon_color=8B0000&title_color=C8A97E&text_color=aaaaaa" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbenjaminsantos&layout=compact&theme=dark&bg_color=0d0d0d&border_color=C8A97E&title_color=C8A97E&text_color=aaaaaa" alt="Most used languages" />
-
-<br/><br/>
-
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=devbenjaminsantos&bg_color=0d0d0d&color=C8A97E&line=8B0000&point=C8A97E&area=true&hide_border=false&border_color=C8A97E" alt="GitHub contribution activity graph" />
+<img src="https://komarev.com/ghpvc/?username=devbenjaminsantos&color=8B0000&style=for-the-badge&label=PROFILE+VIEWS" alt="Contador de visualizações do perfil" />
 
 </div>
 
-────────
+---
 
 <div align="center">
 
-“May you find your worth in the waking world.”
+<p><em>“May you find your worth in the waking world.”</em></p>
 <sub>Bloodborne</sub>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=11&duration=5000&pause=2000&color=4a2a1a&center=true&vCenter=true&width=400&lines=...the+night+of+the+hunt+is+long...;...and+the+hunt+never+ends..." alt="Bloodborne footer animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=13&duration=5000&pause=2000&color=B9915B&center=true&vCenter=true&width=400&lines=...the+night+of+the+hunt+is+long...;...and+the+hunt+never+ends..." alt="Animação de encerramento inspirada em Bloodborne" />
 
 </div>
