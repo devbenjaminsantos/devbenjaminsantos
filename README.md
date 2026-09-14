@@ -1,3 +1,7 @@
+<p align="right">
+  <strong>Português</strong> · <a href="./README.en.md">English</a>
+</p>
+
 <div align="center">
 
 <img width="80%" src="https://w.wallhaven.cc/full/d8/wallhaven-d8oxmo.jpg" alt="Bloodborne — Lumenflower Gardens" />
